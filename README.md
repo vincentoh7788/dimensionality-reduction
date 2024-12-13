@@ -6,3 +6,9 @@ Method:
 2. Linear Discriminant Analysis (LDA)
 3. t-distributed stochastic neighbor embedding (t-SNE)
 
+Dataset: Optical Recognition of Handwritten Digits
+<a> https://archive.ics.uci.edu/dataset/80/optical+recognition+of+handwritten+digits </a>
+
+
+
+
