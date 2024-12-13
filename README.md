@@ -8,7 +8,8 @@ Method:
 <br>
 ML Algorithm : Support Vector Machine (SVM)
 <br>
-Dataset: Optical Recognition of Handwritten Digits <br>
+Dataset: Optical Recognition of Handwritten Digits
+
 <a> https://archive.ics.uci.edu/dataset/80/optical+recognition+of+handwritten+digits </a>
 
 
